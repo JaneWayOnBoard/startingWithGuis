@@ -1,0 +1,7 @@
+setup.py
+guiTest/__init__.py
+guiTest/gui_test.py
+startingWithGuis.egg-info/PKG-INFO
+startingWithGuis.egg-info/SOURCES.txt
+startingWithGuis.egg-info/dependency_links.txt
+startingWithGuis.egg-info/top_level.txt
